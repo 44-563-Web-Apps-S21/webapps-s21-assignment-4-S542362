@@ -27,9 +27,11 @@
 .canyaman {
     color:firebrick;
 }
-table{
-    background-color: rgb(113, 213, 238);
-    border: rgb(235, 39, 39) 2px;
+table,
+th,
+td{
+    background-color:darkviolet
+    border: 5px solid greenyellow;
     border-collapse: collapse;
     width: auto;
     margin: left;
