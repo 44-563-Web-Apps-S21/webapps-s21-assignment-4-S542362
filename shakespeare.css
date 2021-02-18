@@ -18,13 +18,13 @@
     background-color: cadetblue;
     color:bisque;
 }
-.THALIARD {
+.thaliard {
     color:darkorange;
 }
-.HELICANUS {
+.helicanus {
     color:deeppink;
 }
-.CANYAMAN {
+.canyaman {
     color:firebrick;
 }
 table{
@@ -40,3 +40,5 @@ tr{
     padding: 2px;
     margin: 2px;
 }
+
+
