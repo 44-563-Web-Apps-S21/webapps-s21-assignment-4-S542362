@@ -4,7 +4,7 @@
     color:black;
 }
 .stage-direction {
-    font-size: 12px;
+    font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:black;
     background-color: darkcyan;
@@ -26,4 +26,17 @@
 }
 .CANYAMAN {
     color:firebrick;
+}
+table{
+    background-color: rgb(113, 213, 238);
+    border: dimgray 2px;
+    color:green;
+    text-align: center;
+    
+}
+tr{
+    background-color:lightcoral;
+    border: 1px;
+    padding: 2px;
+    margin: 2px;
 }
