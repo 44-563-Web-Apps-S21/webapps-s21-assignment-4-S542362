@@ -29,17 +29,17 @@
 }
 table{
     background-color: rgb(113, 213, 238);
-    border: dimgray 2px;
-    color:green;
+    border: rgb(235, 39, 39) 2px;
+    border-collapse: collapse;
+    width: auto;
+    margin: left;
     text-align: center;
+    padding: 23px;
+    border-spacing: 5px;
+    background-color:rosybrown;
     
 }
-tr{
-    background-color:lightcoral;
-    border: 1px;
-    padding: 2px;
-    margin: 2px;
-}
+
 .name:hover{
     text-shadow: 2px 2px red;
 }
@@ -48,6 +48,5 @@ tr{
 img{
     height: 250px;
     width: 250px;
-
 }
 
